@@ -1,0 +1,6 @@
+movie_name  actor_name  actress_name  yor 
+----------  ----------  ------------  ----
+KGF         Yash        Srinidhi      2018
+KGF2        Yash        Srinidhi      2022
+Baahubali   Prabhas     Anushka       2015
+Baahubali2  Prabhas     Anushka       2017
